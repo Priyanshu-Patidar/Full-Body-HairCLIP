@@ -4,20 +4,6 @@
 My **single** framework supports **hairstyle and hair color editing** individually or jointly, and conditional inputs can come from either **image** or **text** domain. 
 
 
-Tianyi Wei<sup>1</sup>,
-Dongdong Chen<sup>2</sup>,
-Wenbo Zhou<sup>1</sup>,
-Jing Liao<sup>3</sup>,
-Zhentao Tan<sup>1</sup>,
-Lu Yuan<sup>2</sup>, 
-Weiming Zhang<sup>1</sup>, 
-Nenghai Yu<sup>1</sup> <br>
-<sup>1</sup>University of Science and Technology of China, <sup>2</sup>Microsoft Cloud AI, <sup>3</sup>City University of Hong Kong
-
-## News
-**`2022.03.02`**: Our paper is accepted by CVPR2022 and the code will be released soon.   
-**`2022.03.09`**: Our training code is released.  
-**`2022.03.19`**: Our testing code and pretrained model are released. 
 
 ## Web Demo
 Upload your own image and try HairCLIP here with Replicate [![Replicate](https://replicate.com/wty-ustc/hairclip/badge)](https://replicate.com/wty-ustc/hairclip)
