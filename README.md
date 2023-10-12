@@ -1,9 +1,7 @@
-# HairCLIP: Design Your Hair by Text and Reference Image (CVPR2022)
-> This repository hosts the official PyTorch implementation of the paper: "**HairCLIP: Design Your Hair by Text and Reference Image**".
+# HairCLIP: Full Body Transform with updated hair and body colour by Text and Image Reference.
+> This repository hosts the official PyTorch implementation of this pape.
 
-Our **single** framework supports **hairstyle and hair color editing** individually or jointly, and conditional inputs can come from either **image** or **text** domain. 
-
-<img src='assets/teaser.png'>
+My **single** framework supports **hairstyle and hair color editing** individually or jointly, and conditional inputs can come from either **image** or **text** domain. 
 
 
 Tianyi Wei<sup>1</sup>,
